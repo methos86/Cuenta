@@ -6,6 +6,7 @@ public class CCuenta {
     private String cuenta;
     private double saldo;
     private double tipoInterés;
+    private int saldoDenegado;
 
     double getTipoInterés() {
 		return tipoInterés;
