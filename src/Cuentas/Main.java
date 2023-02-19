@@ -16,7 +16,7 @@ public class Main {
 	private static void operativa_cuenta() {
 		CCuenta cuenta1;
         double saldoActual;
-        int cantidadTotal=500;
+        int cantidadTotal=5000;
         
         if (cantidadTotal>= 1000) {
         	System.out.println("Saldo insuficiente");
