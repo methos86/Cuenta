@@ -17,6 +17,7 @@ public class Main {
 		CCuenta cuenta1;
         double saldoActual;
         int cantidadTotal=5000;
+        int creditoSolicitado=30000;
         
         if (cantidadTotal>= 1000) {
         	System.out.println("Saldo insuficiente");
